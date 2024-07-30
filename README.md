@@ -28,7 +28,7 @@ My name's James. I am a third year IT-Science Student and Junior Web Developer.
 
 ### Furthermore I learn Rust and Golang for my own purposes
 
-There are not all the projects I have made. Some are still in progress, rest needs documentation which is still not written. 😄
+There are projects of mine that are not put here. Some are still in progress, rest needs documentation which is still not written. 😄
 
 You being here means that you know who I am, so I do not see any reason I should give any contact-info there.
 
