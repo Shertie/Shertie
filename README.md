@@ -26,6 +26,14 @@ My name's James. I am a third year IT-Science Student and Junior Web Developer.
 - WordPress
 - Twig
 
+### I also work as programmer using all the skills mentioned and developing them even further.
+
+So far I have managed to learn how to:
+- write frontend for project and part it to different modules with Vue.js and Twig
+- write backend using repositories, entities, controllers, services and data fixtures with PHP, Symfony and Doctrine
+- write unit and e2e tests
+- correspond with api and routers
+
 ### Furthermore I learn Rust and Golang for my own purposes
 
 There are projects of mine that are not put here. Some are still in progress, rest needs documentation which is still not written. 😄
